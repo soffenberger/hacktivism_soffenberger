@@ -1,0 +1,77 @@
+ID,Date,Author,Target,Description,Attack,Target Class,Attack Class,Country,Link,Tags
+1,16/07/2015,?,http://unicredit.ua,Cyphort Labs discovered a malware infection at the Ukrainian website of UniCredit bank: unicredit.ua.,Iframe Injection,Finance,CC,"UA
+",http://www.cyphort.com/unicredit-compromised/,"Unicredit, Cyphort Labs"
+2,16/07/2015,?,"GO Shop
+http://shop.ufgo.org/","An anonymous hacker hacks shop.ufgo.org and dumps 1,194 usernames and clear text passwords.",Unknown,Industry: E-Commerce,CC,YU,http://siph0n.in/exploits.php?id=3931,"Go Shop, shop.ufgo.org"
+3,17/07/2015,?,University of California Los Angeles,University of California (UCLA) Health is hit by a cyberattack that potentially exposes the data of about 4.5 million people in the region.,Targeted Attack,Education,CC,"US
+",http://www.zdnet.com/article/ucla-health-hit-by-hack-millions-affected/,University of California Los Angeles
+4,17/07/2015,?,"PNI Digital Media, affecting:
+CVSphoto.com
+Sams Club
+Walgreens
+Rite Aid
+Tesco","Pharmacy chain CVS takes down its online photo center CVSphoto.com, replacing it with a message warning that customer credit card data may have been compromised. The incident comes just days after Walmart Canada, and is the consequence of the compromise of the third party hosting the website (PNI). Other affected companies include: Sams Club, Walgreens, Rite Aid and Tesco, to name a few.",Unknown,Industry: Online Services,CC,"US
+",http://krebsonsecurity.com/2015/07/cvs-probes-card-breach-at-online-photo-unit/,"CVSphoto.com, Walmart Canada, Sams Club, Walgreens, Rite Aid, Tesco"
+5,17/07/2015,Rex Mundi,AFC Kredieten,"Hacker collective Rex Mundi claims to have stolen 24,000 financial records from Belgian loan company AFC Kredieten, and threatens to publish every loan applicant record in its possession if the company does not pay up a ransom. As proof that they have successfully hacked the company, Rex Mundi publishes some personal accounts and leaves a banner notification on the AFC Kredieten website.",Unknown,Finance,CC,BE,http://www.theregister.co.uk/2015/07/17/hacker_group_claims_theft_of_24000_belgian_loan_applicants_data/,"Rex Mundi, AFC Kredieten"
+6,17/07/2015,Blacksmith Hacker’s Team,"http://www.presidentofpakistan.gov.pk
+(Pakistani President Mamnoon Hussain’s website)","Pakistani President Mamnoon Hussain’s website (presidentofpakistan.gov.pk) is defaced by a group of Bangladeshi hackers called Blacksmith Hacker’s Team. Inside the same operation, 72 other Pakistani government websites are defaced as well.",Defacement,"Government
+",CW,"PK
+",https://www.hackread.com/pakistani-president-website-hacked/,"Pakistan, Mamnoon Hussain, presidentofpakistan.gov.pk, Bangladesh, Blacksmith Hacker’s Team"
+7,18/07/2015,Anonymous,"http://www.rcmp-grc.gc.ca
+(Canadian Mounted Police)",Members of the Anonymous collective claim to have crashed the Royal Canadian Mounted Police (RCMP) website as a part of a battle to retaliate the murder of a member in a shooting involving the Canadian Police.,DDoS,Law Enforcement,H,CA,https://www.hackread.com/anonymous-targets-canadian-police-rcmps-website/,"Anonymous, Royal Canadian Mounted Police, RCMP, rcmp-grc.gc.ca"
+8,18/07/2015,@ElSurveillance,http://MeetMeInYourCity.com,"@ElSurveillance starts his personal battle against websites promotes escorts, defacing MeetMeInYourCity.com and leaking 2500 usernames and clear text passwords.",SQLi,Escort,H,"US
+",http://www.databreaches.net/meetmeinyourcity-user-email-addresses-and-passwords-dumped/,"@ElSurveillance, MeetMeInYourCity.com"
+9,19/07/2015,The Impact Team,"Ashley Madison
+http://www.AshleyMadison.com","Ashley Madison, an online dating website that specifically targets people looking to have an affair, is hacked by a group that calls itself Impact Team. The authors of the attack threaten to release the entire database of 37 million users.",Unknown,Online Dating,CC,CA,http://arstechnica.com/security/2015/07/ashley-madison-an-dating-website-for-cheaters-gets-hacked/,"Ashley Madison, The Impact Team, www.AshleyMadison.com"
+10,19/07/2015,@ElSurveillance,http://www.captain69.co.uk/,@ElSurveillance continues his battle against websites promotes escorts. This time the target is captain69.co.uk and the leaked records are about 2600.,SQLi,Escort,H,UK,http://www.databreaches.net/another-escort-service-related-site-hacked-with-data-dumped/,"@ElSurveillance, captain69.co.uk"
+11,20/07/2015,@ElSurveillance,"http://ohcecilia.com
+http://seductivealchemy.com
+http://sofiadelterra.com
+http://taliaamour.com
+http://tabithalayne.com
+http://tawnybrie.com",Other Escort service end up under the unwelcome attention of @ElSurveillance and are defaced.,Defacement,Escort,H,>1,http://www.databreaches.net/more-escort-related-services-hacked/,"@ElSurveillance, ohcecilia.com, seductivealchemy.com, sofiadelterra.com, taliaamour.com, tabithalayne.com, tawnybrie.com"
+12,21/07/2015,FireHack,http://furydown.com/,A hacker dubbed FireHack dumps furydown.com (a DDoS tool) and dumps 3000 usernames and hashed passwords.,SQLi,"DDoS Tool
+",CC,N/A,http://pastebin.com/icXAEUpD,"FireHack, furydown.com"
+13,22/07/2015,Anonymous,"Public Service Labour Relations and Employment Board
+http://pslreb-crtefp.gc.ca",Hackers from the Anonymous collective break into the network of the tribunal that adjudicates disputes between public servants and the federal government and dump 3856 records.,SQLi,Government,H,CA,"http://www.orangeville.com/news-story/5753454-federal-tribunal-targeted-in-cyberattack/
+http://pastebin.com/aCvD9cVn","Public Service Labour Relations and Employment Board, pslreb-crtefp.gc.ca"
+14,23/07/2015,Anonymous,"United States Census Bureau
+http://census.gov/","Members of the online activist collective Anonymous take credit for hacking the United States Census Bureau (census.gov) and leaking the details of its 4,200 employees including names, hashed passwords, email, addresses, phone numbers and positions within the US Government. The reason for the cyber-attack is the recent Trans-Pacific Partnership (TPP) and Transatlantic Trade and Investment Partnership (TTIP).",SQLi,Government,H,"US
+",http://www.ibtimes.co.uk/anonymous-hacks-us-census-bureau-over-ttip-agreement-leaking-employee-details-online-1512244,"Anonymous, United States Census Bureau, census.gov, TPP, TTIP"
+15,23/07/2015,?,CoinCut,UK bitcoin exchange CoinCut is investigating a possible data breach which exposed sensitive customer information including passport and card data to the public.,Unknown,"Bitcoin Exchange
+",CC,UK,http://www.infosecurity-magazine.com/news/bitcoin-exchange-coincut/,CoinCut
+16,24/07/2015,DetoxRansome,BitDefender,"A hacker called DetoxRansome hacks BitDefender and blackmails the company, demanding a ransom of $15,000 and threatening to release the stolen usernames and passwords (allegedly kept in clear) in case the ransom is not paid.","Unknown
+(Unspecified Vulnerability)",Industry: Software,CC,RO,http://www.forbes.com/sites/thomasbrewster/2015/07/31/bitdefender-hacked/?ss=Security,"BitDefender, DetoxRansome
+"
+17,24/07/2015,?,Healthfirst,"New York-based Healthfirst notifies about 5,300 current and former members that their personal information may have been compromised in a criminal fraud scheme.",Unknown,Healthcare,CC,"US
+",http://www.scmagazine.com/data-on-5300-healthfirst-members-caught-up-in-fraud-scheme/article/429020/,Healthfirst
+18,24/07/2015,?,"http://www.scalemodeltoys.com
+","An unknown attacker hacks scaledomdeltoys.com and dumps 2,623 usernames and clear text passwords.",SQLi,Industry: E-Commerce,CC,"US
+",http://pastebin.com/3073415ca,scalemodeltoys.com
+19,25/07/2015,Anonymous,Canada,"Hackers from the Anonymous collective say they breached supposedly secure Canadian government computers and accessed high-level, classified national security documents as retaliation for last week’s fatal shooting by the RCMP of a protester in British Columbia. To support their claim, they publish a document that appears to be legitimate Treasury Board of Canada notes on federal cabinet funding to fix flaws in the foreign stations of the Canadian Security Intelligence Service (CSIS).","Unknown
+",Government,H,CA,http://news.nationalpost.com/news/canada/anonymous-says-it-hacked-canadas-security-secrets-in-retaliation-for-police-shooting-of-b-c-activist,"Anonymous, Canada"
+20,25/07/2015,@NightmareSquad,"University of Queensland
+http://www.uq.edu.au/",A Group of Hacktivists calling themselves @NightmareSquad hacks the University of Queensland and dumps 9 individuals’ e-mail addresses and clear-text passwords.,Unknown,Education,H,AU,http://www.databreaches.net/au-university-of-queensland-logins-leaked-by-nightmare-squad/,"@NightmareSquad, University of Queensland, uq.edu.au"
+21,25/07/2015,The Exploit3rs,Morocco ccTLD,"A group of hackers going with the handle of The Exploit3rs deface the official Moroccan domains of Google, Microsoft and Kaspersky Labs. The attack was possible since the attackers hacked into the Internet country code top-level domain (ccTLD) for Morocco.",DNS Hijacking,Internet Services,CC,MA,https://www.hackread.com/google-microsoft-kaspersky-morocco-hacked/,"The Exploit3rs, Google.ma Microsoft.ma, Kaspersky.ma, ccTLD"
+22,26/07/2015,VikingDom2016,"NYMag.com
+New York Magazine","New York magazine’s website was taken down, apparently by hackers trying to silence it, just hours after publishing the accounts of 35 women who say they were raped by Bill Cosby.",DDoS,News,CC,"US
+",http://qz.com/464609/hackers-say-we-know-one-of-them-females-in-the-cover-after-new-york-magazines-website-goes-down-in-an-attack/,"NYMag.com, New York Magazine, Bill Cosby, VikingDom2016"
+23,26/07/2015,"?
+",Planned Parenthood,A group of hackers who oppose the healthcare nonprofit's abortion practices release Planned Parenthood's website databases as well as names and email addresses of the organization's employees.,SQLi,Org: Health,"H
+","US
+",http://www.dailydot.com/politics/planned-parenthood-hacked-anti-abortion-3301/,Planned Parenthood
+24,29/07/2015,? (China?),United Airlines,"A report from Bloomberg reveals that the hackers who stole data on tens of millions of U.S. insurance holders and government employees in recent months breached another big target at around the same time: United Airlines. The attacked probably happened in May, early June.",Targeted Attack,Industry: Airline,CE,"US
+",http://www.bloomberg.com/news/articles/2015-07-29/china-tied-hackers-that-hit-u-s-said-to-breach-united-airlines,"United Airline, China"
+25,29/07/2015,?,Hanesbrands Inc.,"Hanesbrands Inc. reveals that a customer order database was breached by a hacker in June, compromising information for about 900,000 online and telephone customers.",Unknown,Industry: Clothing,CC,"US
+",http://www.journalnow.com/business/business_news/local/hanesbrands-database-hacked/article_543b338e-3664-11e5-b77e-c77df1e08b5c.html,Hanesbrands Inc.
+26,30/07/2015,?,Ukraine,"ESET reveals that the Win32/Potao malware family has been used for the past five years in covert targeted attacks against the Ukrainian government, served up by a trojanized Russian version of encryption software TrueCrypt.",Targeted Attack,Government,CE,"UA
+",http://www.infosecurity-magazine.com/news/potao-trojan-served-up-by-russian/,"Ukraine, Russia, Win32/Potao, Operation Potao Express"
+27,30/07/2015,?,PagerDuty,"Alarm aggregation and dispatching service PagerDuty detects an unauthorized intrusion by an attacker who gained access to customer information, and the company requires that all customers change their passwords. ",Unknown,Industry: Software,CC,"US
+",http://www.scmagazine.com/the-data-breach-blog/section/1263/,PagerDuty
+28,30/07/2015,?,Planned Parenthood,"Planned Parenthood websites are taken down by a DDoS attack and, according to the main page, undergoing maintenance.",DDoS,Org: Health,H,"US
+",http://www.scmagazine.com/planned-parenthood-websites-downed-in-ddos-attack/article/429563/,Planned Parenthood
+29,30/07/2015,APT29,">1
+","Researchers at FireEye unveil a stealthy malware backdoor, named HAMMERTOSS and attributed to Russian group APT29, which uses Twitter and GitHub to disguise Its Activity",Targeted Attack,Government,CE,>1,http://news.softpedia.com/news/hammertoss-malware-uses-twitter-and-github-to-disguise-its-activity-488123.shtml,"Hammertoss, APT29, FireEye"
+30,31/07/2015,? (China?),University of Connecticut School of Engineering,The University of Connecticut reveals the details of a cyber intrusion through which hackers apparently originating in China gained access to servers at UConn’s School of Engineering.,Targeted Attack,"Education
+",CE,"US
+",http://today.uconn.edu/2015/07/uconn-responds-to-data-breach-at-school-of-engineering/,"University of Connecticut, UConn’s School of Engineering"
