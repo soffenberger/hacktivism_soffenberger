@@ -1,0 +1,117 @@
+moh,Date,Author,Target,Description,Attack,Target Class,Attack Class,Country,Link,Tags,
+1,12/08/2015,Anonymous,"State Information Technology Agency
+http://sita.co.za","In name of #OperationSA and #OpMonsanto, the Anonymous hack the South African government contractor State Information Technology Agency (sita.co.za) and leak its entire database.","SQLi
+",Industry: Information Technology,H,ZA,https://www.hackread.com/opmonsanto-anonymous-hacks-south-african-govt/,"Anonymous, #OperationSA,  #OpMonsanto, Anonymous, State Information Technology Agency, SITA, sita.co.za, Monsanto",","
+2,12/08/2015,?,"University of Michigan’s Facebook pages:
+Michigan Football
+Michigan Basketball
+Michigan Athletics","The University of Michigan’s most popular Facebook pages: Michigan Football, Michigan Basketball, and Michigan Athletics are hacked by an unknown user that posts malicious messages.",Account Hijacking,Education,CC,"US
+",http://socialmedia.umich.edu/blog/hacked/,"University of Michigan, Facebook, Michigan Football, Michigan Basketball, Michigan Athletics",","
+3,13/08/2015,?,Web.com,"The name, address, and credit card information of approximately 93,000 customers of Web.com, a popular US-based provider of Internet services to small businesses, is compromised due to a breach of one of the company's computer systems.","Unknown
+",Industry: Internet Services,CC,"US
+",http://www.net-security.org/secworld.php?id=18783,"Web.com
+",","
+4,15/08/2015,Kelvinsecurity AKA KelvinSecTeam,"Secretaría de Educación Pública
+http://www.sepdf.gob.mx
+",Kelvinsecurity AKA KelvinSecTeam hacks the website of the Mexican Public Education Registry (Secretaría de Educación Pública sepdf.gob.mx) and dumps 106 records with hashed passwords.,"SQLi
+",Government,CC,MX,http://siph0n.net/exploits.php?id=4001,"Kelvinsecurity, KelvinSecTeam, Secretaría de Educación Pública, sepdf.gob.mx",","
+5,15/08/2015,Cyber of Emotion (@Cyber_Emotion),24 Saudi Government Websites,A Saudi Hacker going with the handle of Cyber of Emotion (@Cyber_Emotion) claims to have hacked more than 24 Saudi government websites.,"Defacement
+",Government,CC,SA,http://www.databreaches.net/hacker-hits-24-sites-to-alert-govt/,"Cyber of Emotion, @Cyber_Emotion",","
+6,16/08/2015,"RootDevilz
+Jonturk75
+Bozkurt97","UNICEF India
+http://unicef.in
+","A group of Turkish hackers going with the online handles of RootDevilz, Jonturk75 and Bozkurt97 deface the official website of Unicef India (unicef.in) and post a message against China, US, UN, EU and Israel.","Defacement
+",Org: United Nations,H,IN,https://www.hackread.com/unicef-india-website-turkish-hackers/,"RootDevilz, Jonturk75, Bozkurt97, Unicef India, unicef.in",","
+7,17/08/2015,?,"http://www.totally promotional.com
+Totally Promotional","Totally Promotional, an internet seller of imprinted promotional products, notifies an undisclosed number of customers that attackers forced their way into its systems and gained access to some customer payment card data and other information. However it appears that the breach did not involve directly Totally Promotional, but rather Casad Company Inc., which runs the website totallypromotional.com.","Unknown
+",Industry: Retail,CC,"US
+","http://www.scmagazine.com/totally-promotional-attack-compromises-payment-cards-other-data/article/434514/
+http://www.asicentral.com/news/newsletters/promogram/august-2015/casad-company-inc-suffers-data-breach/","Totally Promotional, Casad Company Inc., totallypromotional.com",","
+8,17/08/2015,NetPirates AKA @TheNetShip,"The Hope Institute
+http://www.makehope.org/",NetPirates AKA @TheNetShip hack The Hope Institute (makehope.org) and dump about 6000 usernames and hashed passwords (they claim to have retrieved additional 5000 record).,"SQLi
+",Org: education,CC,KR,http://siph0n.in/exploits.php?id=3990,"NetPirates, @TheNetShip hack, The Hope Institute, makehope.org",","
+9,18/08/2015,CyberBerkut,"Unso.in.ua
+Dontsov-nic.org.ua
+Pse3zub.org
+Ps-shop.com.ua
+Bilozerska.info
+Banderivec.ho.ua",The Pro-Russia collective CyberBerkut takes down several Ukrainian sites,DDoS,Org: Nationalism,H,UA,http://cyber-berkut.org/en/,"CyberBerkut, Unso.in.ua, Dontsov-nic.org.ua, Pse3zub.org, Ps-shop.com.ua, Bilozerska.info, Banderivec.ho.ua",","
+10,18/08/2015,?,"Tianwang
+(a rights and citizen journalism website)","Tianwang, a rights and citizen journalism website based in the southwestern Chinese province of Sichuan says its operations have been paralyzed by an external attack.","Unknown
+",Org: Human Rights,CC,CN,http://www.rfa.org/english/news/china/rights-websites-hit-by-suspected-hacker-attack-great-firewall-blockade-08182015111603.html,Tianwang,","
+11,18/08/2015,? (hacker affiliated with Anonymous?),Clayton Valley Charter High School,A hacker purportedly associated with the Anonymous collective claims to have hacked the Clayton Valley Charter High School and sends several internal documents via email.,Account Hijacking,Education,H,"US
+",http://www.databreaches.net/ca-anonymous-responsible-for-clayton-valley-charter-high-computer-hack/,"Anonymous, Clayton Valley Charter High School ",","
+12,18/08/2015,NetPirates AKA @TheNetShip,http://www.gohens.net,"NetPirates AKA @TheNetship hack gohens.net, an online forum, and dump 8,300+ usernames and hashed passwords.","SQLi
+",Online Forum,CC,"US
+",http://siph0n.net/exploits.php?id=3995,"NetPirates, @TheNetship, gohens.net",","
+13,19/08/2015,@DadSecurity,http://www.mumsnet.com/,An Internet troll with the nickname @DadSecurity takes down mumsnet.com and not happy with the result targes the portal co-founder Justine Roberts in a 'swatting' attack.,DDoS,Org: Internet Services,CC,"UK
+",http://www.independent.co.uk/news/uk/home-news/mumsnet-hack-founder-justine-roberts-targeted-in-swatting-attack-and-parenting-website-pushed-temporarily-offline-10461558.html,"@DadSecurity, mumsnet, mumsnet.com, Justine Roberts",","
+14,19/08/2015,EroiiKZz,http://forum.aiekillu.fr,"A hacker dubbed EroiiKZz hacks forum.aiekillu.fr and dumps about 32,000 records.","SQLi
+",Online Forum,CC,FR,http://siph0n.net/exploits.php?id=4006,"EroiiKZz, forum.aiekillu.fr",","
+15,19/08/2015,Kelvinsecurity AKA KelvinSecTeam,"Instituto Venezolano de Investigaciones Científicas
+http://www.ivic.gob.ve",Kelvinsecurity AKA KelvinSecTeam hacks the website of the Venezuelan Institute for Scientific Research (Instituto Venezolano de Investigaciones Científicas ivic.gob.ve) and dump 60 usernames and hashed passwords.,"SQLi
+",Government,CC,VE,http://siph0n.net/exploits.php?id=3999,"Kelvinsecurity, KelvinSecTeam, Instituto Venezolano de Investigaciones Científicas, ivic.gob.ve",","
+16,19/08/2015,Israeli Ninja,"NayaTel (Pvt) Ltd
+http://nayatel.com",A hacker dubbed Israeli Ninja hacks nayatel.com and dumps the entire database.,"SQLi
+",Industry: ISP,CC,PK,http://siph0n.net/exploits.php?id=4002,"Israel Ninja, Nayatel, nayatel.com",","
+17,20/08/2015,?,"University of Rhode Island
+URI.edu","The University of Rhode Island (URI.edu) notifies former and current students of of an incident involving the inappropriate collection, and possible use, of information related to some URI email accounts by an external individual.","Unknown
+",Education,CC,"US
+",http://web.uri.edu/publicsafety/data-security-issue/,"University of Rhode Island, URI.edu",","
+18,20/08/2015,?,"PlentyOfFish
+http://www.pof.com",Malwarebytes detects a malvertising attack on popular dating site PlentyOfFish (POF) which draws over 3 million daily users. The ad network involved in the malvertising campaign is ad.360yield.com.,"Malvertising
+",Dating,CC,"US
+",https://blog.malwarebytes.org/malvertising-2/2015/08/malvertising-hits-online-dating-site-plentyoffish/,"Malwarebytes, POF.com, PlentyOfFish",","
+19,20/08/2015,Clinkz48,"Karnataka State Higher Education Council
+http://kshec.ac.in",The website of the Karnataka State Higher Education Council (kshec.ac.in) is defaced by a group that calls itself Clinkz48.,"Defacement
+",Education,CC,IN,http://timesofindia.indiatimes.com/city/bengaluru/Website-of-Karnataka-Higher-Education-Council-hacked/articleshow/48598086.cms?,"Karnataka State Higher Education Council, kshec.ac.in",","
+20,21/08/2015,? (China?),>1,"FireEye unveils the details of Operation Watermain, a campaign targeting India and Southeast Asian nations in a bid to extract information about ongoing border disputes and other diplomatic issues.",Targeted Attack,Government,CE,>1,http://www.zdnet.com/article/cyberattack-campaign-targets-india-sea-nations/,"Operation Watermain, FireEye",","
+21,21/08/2015,Blue Termite,>1,"Kaspersky Lab unveils the details of a new campaign, carried on by an advanced threat group called ""Blue Termite"", hacking high-end Japanese industries from within the country, using the leaked Adobe Flash vulnerabilities revealed in the Hacking Team data dump.",Targeted Attack,>1,CE,>1,http://www.theregister.co.uk/2015/08/21/forget_euro_bullet_proofing_japan_hacker_flaks_set_up_ccs_home/,"Blue Termite, Kaspersky Lab",","
+22,21/08/2015,Mr.Xpr! Iran Hack Security Team,"Royal Saudi Air Force
+http://rsaf.gov.sa","Mr.Xpr!, an Iranian hacker from Iran Hack Security Team defaces the official website of Royal Saudi Air Force (http://rsaf.gov.sa).","Defacement
+",Military,CC,SA,https://www.hackread.com/saudi-airforce-hacked-iranian-hackers/,"Mr.Xpr!, Iran Hack Security Team Royal Saudi Air Force, rsaf.gov.sa",","
+23,21/08/2015,?,Brunswick Hotel and Tavern,"Malware on a computer at the Brunswick Hotel and Tavern exposed names and credit card information for as many as 2,600 guests who stayed at the hotel between November 2014 and July 2015.",Malware,Industry: Hospitality,CC,"US
+",http://www.databreaches.net/me-data-breach-at-brunswick-hotel-possibly-exposes-cards-of-2600/,Brunswick Hotel and Tavern,
+24,23/08/2015,JM511,https://www.autozonepro.com/,"JM511 hacks AutoZonePro.com and dumps 49,967 customers’ details: billing addresses (street and city), email addresses, hashed passwords, telephone numbers, customers’ cities, and dates of birth. The attacker claims to have obtained a total of 162,000+ records.","SQLi
+","Industry: E-Commerce
+",CC,"UK
+",http://www.databreaches.net/50000-autozone-customers-data-hacked-exposed/,"JM511, Autozone.pro",","
+25,23/08/2015,JM511,"University of California at Los Angeles
+http://www.ucla.edu","JM511 dumps some data from the University of California at Los Angeles (UCLA) after allegedly warning the university twice. The attacker also warns other universities of possible vulnerabilities including: Western Governor’s University in Utah, the University of Minnesota, DePaul University, and Northern Illinois University.","SQLi
+",Education,CC,"US
+",http://www.databreaches.net/more-american-universities-hacked-by-jm511/,"JM511, University of California at Los Angeles, ucla.edu, Western Governor’s University, University of Minnesota, DePaul University, Northern Illinois University",","
+26,23/08/2015,?,"Philippine Bureau of Customs
+http://customs.gov.ph","In name of #OpCustoms, a group of hackers takes down the Philippine Bureau of Customs (customs.gov.ph)",DDoS,Government,H,PH,http://philippineitnewsandservices.blogspot.co.uk/2015/08/philippines-bureau-of-customs-dozed-by.html,"#OpCustoms, Philippine Bureau of Customs, customs.gov.ph",","
+27,25/08/2015,?,Github,"Code repository Github is the victim of a massive DDoS Attack. The site is likely targeted  because of software projects hosted on the site that have allowed Chinese Internet users to bypass the Great Firewall's packet filtering and inspection tools, ",DDoS,Industry: Software,CC,"US
+",https://threatpost.com/github-mitigates-ddos-attack/114403,"Github
+",","
+28,25/08/2015,AnonGrim AKA @An0nGrim ,http://www.autobits.co.uk,"AnonGrim AKA @An0nGrim hacks autobits.co.uk and dumps 4,771 records.","SQLi
+",Industry: E-Commerce,CC,"UK
+",http://t.co/9Aoro2tQ04,"AnonGrim, @An0nGrim, autobits.co.uk",","
+29,25/08/2015,?,Brunswick Hotel & Tavern,"Olympia Hotel Management, which manages Maine-based Brunswick Hotel & Tavern, notifies an undisclosed number of guests that malware was discovered on the hotel's computer systems and payment card information could be at risk (2,600 guests were impacted).",Malware,Industry: Hospitality,CC,"US
+",http://www.scmagazine.com/malware-on-maine-hotel-computer-targets-guest-payment-cards/article/435900/,"Olympia Hotel Management, Brunswick Hotel & Tavern",
+30,26/08/2015,Moroccanwolf,http://www.secamblive.nhs.uk,"www.secamblive.nhs.uk, a UK National Health Service (NHS) site on which the organisation posts patients' stories describing their experience with illness is defaced by Moroccanwolf, as an act of protest regarding western governments' lack of humanitarian actions in Syria.","Defacement
+",Healthcare,H,"UK
+",http://www.theregister.co.uk/2015/08/26/nhs_site_defaced_with_screed_protesting_syrian_conflict/,"www.secamblive.nhs.uk, NHS, Moroccanwolf",","
+31,27/08/2015,? (Russia?),"EFF
+Electronic Frontier Foundation",Google's security team identifies a new domain masquerading as an official EFF site as part of a targeted malware campaign linked to the Operation Pawn Storm. The domain is electronicfrontierfoundation.org.,"Targeted Attack
+",Single Individuals,CE,"US
+",https://www.eff.org/deeplinks/2015/08/new-spear-phishing-campaign-pretends-be-eff,"Operation Pawn Storm, EFF, electronicfrontierfoundation.org",","
+32,27/08/2015,?,Iranian Dissidents,Researchers at Citizen Lab release a report today describing a phishing campaign conducted against Iranian dissidents.,"Targeted Attack
+",Single Individuals,CE,IR,http://www.scmagazine.com/citizen-lab-report-describes-phishing-campaign-against-iranian-dissidents/article/435241/,"Citizen Lab, Iran",","
+33,27/08/2015,?,MSN.com,"Malwarebytes reveals that the same ad network, AdSpirit.de, which was recently abused in malicious advertising attacks against several top media sites, is caught serving malvertising on MSN.com. This is the work of the same threat actors that were behind the Yahoo! malvertising.",Malvertising,Industry: Internet Services,CC,"US
+",https://blog.malwarebytes.org/malvertising-2/2015/08/angler-exploit-kit-strikes-on-msn-com-via-malvertising-campaign/,"Malwarebytes, Adspirit.de, MSN.com",","
+34,27/08/2015,?,http://www.mumsnet.com/,Mumsnet is hit by a new wave of DDoS attacks.,DDoS,Org: Internet Services,CC,"UK
+",http://www.scmagazineuk.com/mumsnet-hit-again-this-time-by-stronger-series-of-attacks/article/435099/,Mumsnet,","
+35,27/08/2015,NetPirates AKA @TheNetShip,http://www.ecaytrade.com/,NetPirates AKA @TheNetShip hack ecaytrade.com and dump about 50K usernames and hashed passwords.,"SQLi
+",Internet Services,CC,KY,http://t.co/otfvqVjTmD,"NetPirates, @TheNetShip, ecaytrade.com",","
+36,27/08/2015,?,Utah Food Bank,"Utah Food Bank notifies the donors of an access into its website by an unauthorized individual who could have gained access to personal data of more than 10,000 donors.","Unknown
+",Org: Non-Profit,CC,"US
+",http://www.databreaches.net/utah-food-bank-security-breach-exposed-thousands-of-donors-info-since-october-2013/,Utah Food Bank,","
+37,28/08/2015,?,Michigan Catholic Conference,"The Michigan Catholic Conference notifies more than 10,000 employees, that their personal information has been compromised by an unknown hacker who could also have obtained their personal information.","Unknown
+",Org: Non-Profit,CC,"US
+",http://www.databreaches.net/michigans-catholic-workers-are-latest-cyber-victims/,Michigan Catholic Conference,","
+38,31/08/2015,?,TransformPOS,"Village Pizza & Pub, a local pizza chain headquartered in Elgin, Illinois, is the indirect victim of security breach perpetrated against TransformPOS, the company that provides its POS payment card processing system.","Unknown
+",Industry: POS Equipment,CC,"US
+",http://www.databreaches.net/il-village-pizza-pub-notifies-customers-of-data-security-breach-at-transformpos/,Village Pizza & Pub. TransformPOS,","
