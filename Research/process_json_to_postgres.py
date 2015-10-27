@@ -17,7 +17,7 @@ def parse_json():
 		for line in data_file:
 			try:
 				data.append(json.loads(line))
-				if data[b]["cat"] == 2 or data[b]["cat"] == 7:
+				if data[b]["cat"] == 2 or data[b]["cat"] == 7 or data[b]["cat"] == 10 or data[b]["cat"] == 11 or data[b]["cat"] == 12:
 					data.pop(b)
 				else:
 					b+=1
